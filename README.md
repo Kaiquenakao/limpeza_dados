@@ -1,10 +1,10 @@
 
 ## Limpeza de dados
-Repositório para estudar e revisar os conceitos de limpeza e tratamento de dados com os frameworks do Python
+Repositório para estudar e revisar os conceitos de limpeza e tratamento de dados com os frameworks do Python.
 <br>
 Versão do Python 3.9.4
 ## Requerimentos
-Para uma visualização eficiente e alteração dos arquivos precisa ter o  [Jupyter Notebook](https://jupyter.org/) instalado.  Após ter ele instalado acesse o Jupyter através do cmd utilizando o seguinte comando:
+Para uma visualização eficiente e alteração dos arquivos precisa ter o  [Jupyter Notebook](https://jupyter.org/) instalado.  Após ter ele instalado, acesse o Jupyter Notebook através do cmd utilizando o seguinte comando:
 
     jupyter notebook
 
