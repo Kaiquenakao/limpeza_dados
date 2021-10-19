@@ -1,14 +1,14 @@
 
 ## Limpeza de dados
-Repositório para estudar e revisar os conceitos de limpeza e tratamento de dados com os frameworks do Python.
+Repositório para estudar e revisar os conceitos de limpeza e tratamento de dados com os frameworks Pandas e Numpy do Python.
 <br>
 Versão do Python 3.9.4
 ## Requerimentos
-Para uma visualização eficiente e alteração dos arquivos precisa ter o  [Jupyter Notebook](https://jupyter.org/) instalado.  Após ter ele instalado, acesse o Jupyter Notebook através do cmd utilizando o seguinte comando:
+Para uma visualização eficiente e alteração dos arquivos é necessário ter o [Jupyter Notebook](https://jupyter.org/) instalado.  Após ter ele instalado, acesse o Jupyter Notebook por meio do cmd utilizando o seguinte comando:
 
     jupyter notebook
 
-Após utilizar esse comando abrirá os arquivos e para executar os comandos que contém no arquivo necessita ter as bibliotecas Pandas e Numpy instalados, para instalar as bibliotecas, basta abrir o cmd e digitar os seguintes comandos:
+Após utilizar esse comando abrirá os arquivos, e para executar os comandos que contém no arquivo necessita ter as bibliotecas Pandas e Numpy instalados, para instalar as bibliotecas, basta abrir o cmd e digitar os seguintes comandos:
 
     pip install pandas
     pip install numpy
